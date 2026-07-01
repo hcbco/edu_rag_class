@@ -1,0 +1,6 @@
+
+integrated_qa_system/rag_qa/models/*/
+!integrated_qa_system/rag_qa/models/rag_assesment/
+
+
+integrated_qa_system/rag_qa/core/bert_results/checkpoint-98/*
